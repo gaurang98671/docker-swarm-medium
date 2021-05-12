@@ -11,4 +11,4 @@ services:
     node-app-container:
         image: gaurang98671/myapp
         deploy:
-            -replicas: 5
+            replicas: 5
